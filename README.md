@@ -1,4 +1,4 @@
-## <summary><strong>Yo Haloo :wave: , I'm reverse("Furam")!</strong></summary>
+## <summary><strong>Ya Haloo :wave: , I'm reverse("Furam")!</strong></summary>
 Just (fake)Machine Learning Engineer.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notfound313&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
