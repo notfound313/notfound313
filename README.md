@@ -1,7 +1,8 @@
 <div id="header" align="center">
-  <img  src="https://giphy.com/embed/s63Jzew1dfO3j6nndV" width="480" height="480" frameBorder="0" class="giphy-embed"  width="100"/>
+  <img  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenZveTlreGh6dnR5bG5kZmFvYmhlMzU1cHdqZXV5YWdoMGRlYTA4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/s63Jzew1dfO3j6nndV/giphy.gif" width="100"/>
 </div>
-<div id="badges">
+
+<div id="badges" align="center>
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -14,14 +15,13 @@
 </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=notfound313&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
-<summary><strong>Ya Haloo :wave: , I'm reverse("Furam")!</strong></summary>
-Just (fake)Machine Learning Engineer.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=notfound313&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
-</p>
+
 <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
+---
 
 <summary><strong>Tools:</strong></summary>
 <p>
