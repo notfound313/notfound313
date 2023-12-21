@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img  src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="250" />
   <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn" alt="LinkedIn Badge"/>
   </a>  
   <a href="https://instagram.com/furam.reverse">
@@ -16,7 +16,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <p>
-  (Fake) Machine Learning Engineer
+  (Fake) <strong>Machine Learning Engineer</strong> (i have no idea why im here i guess i've lost my way)
 </p>
 </div>
 
