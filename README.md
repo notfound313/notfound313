@@ -1,9 +1,9 @@
 <div id="header" align="center">
-  <img  src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100"/>
+  <img  src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" />
 
   <div id="badges">
   <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn" alt="LinkedIn Badge"/>
   </a>  
   <a href="https://instagram.com/furam.reverse">
     <img src="https://img.shields.io/badge/Instagram-purple?logo=instagram" alt="Instagram Badge"/>
@@ -14,10 +14,9 @@
   hey there I'm reverse("furam")
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
----
-<h2>
+<h4>
   (Fake) Machine Learning Engineer
-</h2>
+</h4>
 </div>
 
 ---
