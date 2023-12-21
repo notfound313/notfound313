@@ -1,12 +1,32 @@
-## <summary><strong>Ya Haloo :wave: , I'm reverse("Furam")!</strong></summary>
+<div id="header" align="center">
+  <img  src="https://giphy.com/embed/s63Jzew1dfO3j6nndV" width="480" height="480" frameBorder="0" class="giphy-embed"  width="100"/>
+</div>
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=notfound313&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+</p>
+<summary><strong>Ya Haloo :wave: , I'm reverse("Furam")!</strong></summary>
 Just (fake)Machine Learning Engineer.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notfound313&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
-### <summary><strong>Tools:</strong></summary>
+<summary><strong>Tools:</strong></summary>
 <p>
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-    <img src="https://img.shields.io/badge/Google%20Colab-orange"/>
+    <img src="https://img.shields.io/badge/Google_Colaboratory-black?logo=googlecolab&logoColor=orange"/>
 
 </p>
 
