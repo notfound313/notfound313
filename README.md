@@ -1,6 +1,5 @@
 <div id="header" align="center">
   <img  src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="250" />
-
   <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn" alt="LinkedIn Badge"/>
@@ -11,6 +10,7 @@
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=notfound313&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+
 <h1>
   hey there I'm reverse("furam")
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -33,12 +33,12 @@
 <p>
     - :keyboard: I’m currently learning Data Analytics and Machine Learning. </br>
     - :speech_balloon: Ask me about anything.</br>   
-    - :cloud: Pronouns: He/Him. </br>
- 
+    - :cloud: Pronouns: He/Him. </br> 
 <p>
  
-
+<!-- 
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=notfound313&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notfound313&layout=compact" height=180 />
 </p>
+-->
