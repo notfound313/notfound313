@@ -16,7 +16,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <p>
-  (Fake) <strong>Machine Learning Engineer</strong> ( i have no idea why im here )
+  (Fake) <strong>Machine Learning Engineer</strong> (i have no idea why im here)
 </p>
 </div>
 
