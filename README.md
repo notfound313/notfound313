@@ -14,12 +14,12 @@
   hey there I'm reverse("furam")
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<h4>
+<p>
   (Fake) Machine Learning Engineer
-</h4>
+</p>
 </div>
 
----
+
 
 <summary><strong>Tools:</strong></summary>
 <p>
@@ -28,7 +28,7 @@
 
 </p>
 
-### <summary><strong>Yosh!</strong></summary>
+<summary><strong>Yosh!</strong></summary>
 <p>
     - :keyboard: I’m currently learning Data Analytics and Machine Learning. </br>
     - :speech_balloon: Ask me about anything.</br>   
@@ -36,11 +36,6 @@
  
 <p>
  
-### <summary><strong>Let's connect!</strong></summary>
-
-<a href="https://www.instagram.com/furam.reverse/">
-  <img align="left" alt="furam's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
-</a>
 
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=notfound313&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
