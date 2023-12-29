@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img  src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="250" />
   <div id="badges">
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/muhammad-ma-ruf-100703235">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn" alt="LinkedIn Badge"/>
   </a>  
   <a href="https://instagram.com/furam.reverse">
