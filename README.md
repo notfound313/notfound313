@@ -16,7 +16,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <p>
- <strong> (Fake) </strong>strong> SoftwareEngineer.Parse(<strong>Machine Learning Engineer ?</strong>) (i have no idea why im here)
+ <strong> (Fake) </strong> SoftwareEngineer.Parse(<strong>Machine Learning Engineer ?</strong>) (i have no idea why im here)
 </p>
 </div>
 
